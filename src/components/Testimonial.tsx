@@ -10,7 +10,7 @@ type IReview = {
 
 const Testimonial = ({testimonial, image}: IReview): ReactNode => {
   return (
-    <div className='bg-white text-darkGray drop-shadow-xl rounded-md p-8 mb-28'>
+    <div className='bg-white text-darkGray drop-shadow-xl cursor-default rounded-md hover:rotate-6 transition-all duration-1000 p-8 mb-28 lg:w-9/12 xl:w-8/12'>
       <FontAwesomeIcon icon={faQuoteLeft} className='pb-2 text-darkGray' />
       <p>{testimonial}</p>
       <div className='flex gap-4 pt-4'>

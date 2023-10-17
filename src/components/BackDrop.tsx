@@ -1,4 +1,6 @@
-const BackDrop = () => {
+import {ReactNode} from "react";
+
+const BackDrop = (): ReactNode => {
   return (
     <>
       <div
