@@ -1,2 +1,2 @@
 ## Link to assignment
-[Clicke me](https://holmar-fylo.netlify.app/)
+[Click me](https://holmar-fylo.netlify.app/)
